@@ -1,1 +1,1 @@
-# ab-testing
+# A/B testing
